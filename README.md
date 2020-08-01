@@ -1,0 +1,1 @@
+Uma matriz com um número ímpar de elementos será centrada se todos os elementos (exceto o do meio) forem estritamente maiores que o valor do elemento do meio. Observe que apenas matrizes com um número ímpar de elementos possuem um elemento central. Escreva uma função que aceite uma matriz de inteiros e retorne 1 se for uma matriz centralizada, caso contrário, ela retornará 0.

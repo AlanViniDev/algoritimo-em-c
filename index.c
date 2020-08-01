@@ -37,7 +37,7 @@ int main (){
 		printf("\n\n");
 		for(i = 1; i <= quantidade; i++){
 				printf("\n\n");
-					if(aux  > vetor[i] || aux < vetor[i]){
+					if(aux  > vetor[i]){
 						printf("0");
 						break;
 					}
